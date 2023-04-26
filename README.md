@@ -1,2 +1,3 @@
-# CSE-102 HW
+# Gebze Technical University
  Cse 102 Homeworks
+ 
